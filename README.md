@@ -13,6 +13,6 @@ The motivation for this project derived from the shortage of affordable housing 
 ## Methods:
 ## Results
 ## Location:
-This project resides on Github at matthewdavidjeffery/reddinghousing
+This project resides on Github at matthewdavidjeffery/reddinghousingvisualization
 Feel free to pull or extend at will.
 Citations are appreciated, although this is a work in progress.
