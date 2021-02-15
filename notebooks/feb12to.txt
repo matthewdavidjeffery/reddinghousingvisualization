@@ -1,0 +1,5 @@
+# Project Log
+
+## Feb. 15
+After attempting to access MLS data for Redding area, hit a significant pay wall. Resetting initial goal to display home ownership over time for now for all 50 states.
+Found data in text version from http://eadiv.state.wy.us/housing/Owner_0010.html, derived from the US Census Bureau
